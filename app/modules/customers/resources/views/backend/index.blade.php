@@ -1,1 +1,1 @@
-@lang('customers::index.welcome')backend
+@lang('customers::index.welcome') backend
