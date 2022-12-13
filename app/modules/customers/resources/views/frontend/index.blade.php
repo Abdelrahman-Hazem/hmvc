@@ -1,1 +1,0 @@
-@lang('customers::index.welcome') frontend
